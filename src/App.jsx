@@ -23,6 +23,7 @@ function App () {
   
 
   const handleSubmit = (e) => {
+    alert("Your info has been submitted!")
 		e.preventDefault();
     
 
@@ -108,7 +109,7 @@ function App () {
                     <input placeholder='' onChange={(e) => setPast(e.target.value)} />
                   </Form.Field>
         
-                  <Button color="blue" type='submit' onClick={handleSubmit}>Submit</Button>
+                  <Button color="blue" type='submit' onClick={(e) => handleSubmit(e)}>Submit</Button>
                 </Form>
           </Container>
         </Grid.Column>
