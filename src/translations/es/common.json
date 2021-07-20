@@ -1,0 +1,14 @@
+{
+    "welcome": {
+        "title": "Bienvenido a {{framework}}",
+        "label": "Que esperas obtener del SEO?",
+        "customer": "Quien es tu cliente ideal?",
+        "points": "Cuales son las mayores puntos de dolor relacionados a tu producto/servicio?",
+        "comp": "Who are your top 3 competitors?",
+        "keywords": "What are the keywords your prospects should type into a search engine when they’re looking for your business?",
+        "topics": "What are the 3 Main Topics of your brand/website?",
+        "sub-topics": "What are some of the Sub-topics?",
+        "markets": "What markets(locations) do you want to cover?",
+        "past": "Have you ever had any SEO done on your website, or is this your first time?"
+    }
+}
