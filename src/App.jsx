@@ -55,7 +55,7 @@ function App () {
           <Grid.Column>
             <Container fluid className="container">
               <Header as='h2'>Pre-SEO Analysis</Header>
-                <p>- The process of improving your site to increase its visibility when people search for products or services related to your business in Google, Bing, and other search engines.</p>
+                <p>- The process of improving your site to increase its visibility when people search for products or services related to your business in search engines.</p>
                 <p>- Getting higher rankings on search engines which in turn creates a larger target audience.</p>
                 <Form className="form">
 
