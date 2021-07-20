@@ -59,7 +59,7 @@ function App () {
                 <Form className="form">
 
                   <Form.Field>
-                    <label>What is your company's name?</label>
+                    <label>Name of Brand:</label>
                     <input placeholder='' onChange={(e) => setCompany(e.target.value)} />
                   </Form.Field>
 
